@@ -1,4 +1,4 @@
-git+https://github.com/EuroPython/ep-tools.git@8ac869fb24b5d96d0d46f102cfba98b90ab49021#egg=eptools
+git+https://github.com/EuroPython/ep-tools.git@e2966ccdbf15a44b203100d4a1cbb379ac826ed2#egg=eptools
 docstamp>=0.3.3
 PyDrive>=1.3.1
 gspread>=0.6.2
