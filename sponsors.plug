@@ -1,0 +1,9 @@
+[Core]
+Name = Sponsors
+Module = sponsors
+
+[Documentation]
+Description = This is a plugin to generate Sponsors contracts for EuroPython.
+
+[Python]
+Version = 2+
